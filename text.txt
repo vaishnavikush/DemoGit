@@ -4,7 +4,7 @@ okk now i am sdding another line
 <<<<<<< HEAD
 What is my name
 where is my home
-=======
+==========
 is my name vaishnavi 
 and am i from Mp
 >>>>>>> Branch2
